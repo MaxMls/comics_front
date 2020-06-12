@@ -1,0 +1,6 @@
+{
+  "name": "manga",
+  "short_name": "manga",
+  "display": "standalone",
+  "start_url": "/"
+}
